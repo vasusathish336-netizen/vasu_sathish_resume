@@ -17,12 +17,12 @@ Projects
   - Bengalore has the highest number of restaurants.  
   - North Indian cuisine is most popular across cities.  
   - Restaurants offering online delivery received higher average ratings.
- Education
-Bachelor of Engineering [B.TECH in Information Technology] 
-Park college of engineering & technology, Anna university  
-*Year of Completion:*2021
-*Certifications*
- Login360 - Data analysis
+Education
+ Bachelor of Engineering [B.TECH in Information Technology] 
+ Park college of engineering & technology, Anna university  
+ *Year of Completion:*2021
+ *Certifications*
+  Login360 - Data analysis
 Additional Information
  Languages: English, Tamil  
  Interests: Data Visualization, Technology, Business Insights  

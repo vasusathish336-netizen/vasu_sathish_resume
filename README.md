@@ -8,8 +8,8 @@ Skills
 - Data Tools: Power BI, Microsoft Excel  
 - Database: MySQL  
 - Visualization: Dashboard Design, KPI Analysis  
-- Soft Skills: Problem Solving, Communication, Teamwork  
-Projects
+- Soft Skills: Problem Solving, Communication, Teamwork
+- Projects
 ###[Zomato Restaurant Analysis](https://github.com/vasusathish336-netizen/Zomato_Restaurant_Analysis)
 - Analyzed Zomato restaurant data to identify insights on cuisines, ratings, and city trends.  
 - Built an interactive dashboard to visualize restaurant performance.  
@@ -17,7 +17,8 @@ Projects
   - Bengalore has the highest number of restaurants.  
   - North Indian cuisine is most popular across cities.  
   - Restaurants offering online delivery received higher average ratings.
-Education
+
+**Education**
  Bachelor of Engineering [B.TECH in Information Technology] 
  Park college of engineering & technology, Anna university  
  *Year of Completion:*2021

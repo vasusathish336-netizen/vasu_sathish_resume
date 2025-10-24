@@ -9,12 +9,12 @@ Skills
 - Database: MySQL  
 - Visualization: Dashboard Design, KPI Analysis  
 - Soft Skills: Problem Solving, Communication, Teamwork  
- Projects
+Projects
 ###[Zomato Restaurant Analysis](https://github.com/vasusathish336-netizen/Zomato_Restaurant_Analysis)
 - Analyzed Zomato restaurant data to identify insights on cuisines, ratings, and city trends.  
 - Built an interactive dashboard to visualize restaurant performance.  
 - Key Findings:  
-  - Bengaluru has the highest number of restaurants.  
+  - Bengalore has the highest number of restaurants.  
   - North Indian cuisine is most popular across cities.  
   - Restaurants offering online delivery received higher average ratings.
  Education
@@ -23,7 +23,6 @@ Park college of engineering & technology, Anna university
 *Year of Completion:*2021
 *Certifications*
  Login360 - Data analysis
-
 Additional Information
  Languages: English, Tamil  
  Interests: Data Visualization, Technology, Business Insights  

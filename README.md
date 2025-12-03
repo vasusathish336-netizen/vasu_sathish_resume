@@ -33,8 +33,6 @@ To obtain an entry-level position in the IT or data analytics industry where I c
 ## Additional Information
  **Languages:** English, Tamil  
  **Interests:** Data Visualization, Technology, Business Insights  
-*Email:* vasusathish336@gmail.com
-*Githup:*[github.com/vasusathish336-netizen](https://githup.com/vasusathish336-netizen)
-vasusathish336@gmail.com  
+*Email:* vasusathish336@gmail.com 
 *GitHub:* 
 [github.com/vasusathish336-netizen](https://github.com/vasusathish336-netizen)

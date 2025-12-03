@@ -1,16 +1,26 @@
-#vasu_sathish_resume
-**Aspiring Data Analyst | python | SQL | power BI| Excel **
-passionate about turning data into actionable insights.
-## Objective
-To obtain an entry-level position in the IT or data analytics industry where I can apply my technical and analytical skills to contribute to organizational success and continuous learning.
+# Vasu Sathish
+
+📧 Email: vasusathish336@gmail.com  
+💼 GitHub: https://github.com/vasusathish336-netizen  
+
 ---
-## Skills
-- **Programming:** Python, SQL  
-- **Data Tools:** Power BI, Microsoft Excel  
-- **Database:** MySQL  
-- **Visualization:** Dashboard Design, KPI Analysis  
-- **Soft Skills:** Problem Solving, Communication, Teamwork
+
+## Profile Summary
+Entry-level Data Analyst with skills in Python, Power BI, MYSQL...
+
+---
+
+## Technical Skills
+- Python (Pandas, NumPy, Matplotlib)
+- MYSQL
+- Power BI
+- Excel
+- Git & GitHub
+
+---
+
 ## Projects
+
 ### [Zomato Restaurant Analysis](https://github.com/vasusathish336-netizen/Zomato_Restaurant_Analysis)
 - Analyzed Zomato restaurant data to identify insights on cuisines, ratings, and city trends.  
 - Built an interactive dashboard to visualize restaurant performance.  
@@ -22,17 +32,24 @@ To obtain an entry-level position in the IT or data analytics industry where I c
  ---
 
 ## Education
- **Bachelor of Engineering (B.TECH in Information Technology 
- Park college of engineering & technology)** Anna university  
- **Year of Completion:**2021
+*B.E – Information Technology*  
+Park College of Engineering & Technology, Coimbatore  
+Anna University | 2021 Passout  
 
- ---
- 
- ## Certifications
-  - Login360 - Data analysis
+---
+
+## Certifications
+- Login360 – Data Analysis (Python, Pandas, Power BI)
+
+---
+
 ## Additional Information
- **Languages:** English, Tamil  
- **Interests:** Data Visualization, Technology, Business Insights  
+*Languages:* English, Tamil  
+*Interests:* Data Visualization, Business Insights
+
+ 
 *Email:* vasusathish336@gmail.com 
 *GitHub:* 
 [github.com/vasusathish336-netizen](https://github.com/vasusathish336-netizen)
+
+
